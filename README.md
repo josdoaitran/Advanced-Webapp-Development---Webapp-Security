@@ -3,3 +3,15 @@ Advanced Webapp Development - Webapp Security
 
 ## SQL Injection
 
+Payload examples:
+```
+
+```
+
+## XSS - Cross Site Scripting
+
+
+## Broken Authentication
+
+
+
