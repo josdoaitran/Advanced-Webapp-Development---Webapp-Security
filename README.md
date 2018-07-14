@@ -65,3 +65,9 @@ password-salt
 user-id
 card-id
 ```
+## Insecure Deserialization
+
+## Using Components with Known Vulnerabilities
+We will have components for system
+
+## Insufficient Logging & Monitoring
