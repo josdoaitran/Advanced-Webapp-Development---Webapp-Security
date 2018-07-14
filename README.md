@@ -44,6 +44,11 @@ Example for XSS payload
 ```
 
 ```
+## Broken Access Control
+
+```
+
+```
 
 ## Sensitive Data Exposure
 Sensitive data are the information of Web Server, internal data of server.
