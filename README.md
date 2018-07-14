@@ -41,14 +41,17 @@ Example for XSS payload
 
 ```
 
-
 ## Broken Authentication
+All requests to system should be required althentication.
+
 
 ```
 
 ```
 ## Broken Access Control
 
+One of the general attack ways that hackers use is escalation to go pass the business rules of system.
+We will folow the business rules points to inject your scripts.
 ```
 
 ```
