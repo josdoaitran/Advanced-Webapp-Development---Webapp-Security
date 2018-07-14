@@ -30,6 +30,15 @@ Payload examples:
 ## XSS - Cross Site Scripting
 
 
+Types of XSS:
+
+Example for XSS payload
+
+```
+
+```
+
+
 ## Broken Authentication
 
 
