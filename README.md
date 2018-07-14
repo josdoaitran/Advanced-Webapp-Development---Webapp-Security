@@ -32,6 +32,9 @@ Payload examples:
 
 Types of XSS:
 
+How to test: We will inject our script to inputed fields on systems.
+If we can, we can follow the effections of scripts to analysis the security severity.
+
 Example for XSS payload
 
 ```
