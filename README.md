@@ -41,5 +41,16 @@ Example for XSS payload
 
 ## Broken Authentication
 
+```
 
+```
 
+## Sensitive Data Exposure
+Sensitive data are the information of Web Server, internal data of server.
+```
+password
+password-salt
+
+user-id
+card-id
+```
