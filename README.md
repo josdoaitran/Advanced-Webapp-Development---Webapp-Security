@@ -43,11 +43,21 @@ Example for XSS payload
 ## Broken Authentication
 
 
+## Sensitive Data Explosure
+
+There are applications graphic interface (API) do not properly provide the sensitive data as banking, financial, healcare, ...
+
+Attacker can follow the response message from server to exploit, then they can steal more modify to weak points.
+
+
 ## CSRF - 
 
 
-## Vulnerabilities
+# Vulnerabilities
+
+The impactful application security risk. From that hackers can detect and exploit to steal the sensitive data, make the broken system, even do unexpected actions ...
+
 
 # References
 
-Cross-
+
