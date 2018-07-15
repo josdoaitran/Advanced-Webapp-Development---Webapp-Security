@@ -29,6 +29,7 @@ Payload examples:
 
 ## XSS - Cross Site Scripting
 
+Cross-Site Scripting (XSS) is a special form of "Code Injection Attack", whereas the attackers inject malicious client-side script (e.g., JavaScript) into your web pages (e.g., through the comment field) that would be saved in database.
 
 Types of XSS:
 
@@ -42,4 +43,11 @@ Example for XSS payload
 ## Broken Authentication
 
 
+## CSRF - 
 
+
+## Vulnerabilities
+
+# References
+
+Cross-
