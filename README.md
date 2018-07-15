@@ -89,5 +89,27 @@ The impactful application security risk. From that hackers can detect and exploi
 =======
 ## Using Components with Known Vulnerabilities
 We will have components
+=======
+
+One of the general attack ways that hackers use is escalation to go pass the business rules of system.
+We will folow the business rules points to inject your scripts.
+```
+
+```
+
+## Sensitive Data Exposure
+Sensitive data are the information of Web Server, internal data of server.
+```
+password
+password-salt
+
+user-id
+card-id
+```
+## Insecure Deserialization
+
+## Using Components with Known Vulnerabilities
+We will have components for system
+
 
 ## Insufficient Logging & Monitoring
