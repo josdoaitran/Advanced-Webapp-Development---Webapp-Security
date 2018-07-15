@@ -33,14 +33,40 @@ Cross-Site Scripting (XSS) is a special form of "Code Injection Attack", whereas
 
 Types of XSS:
 
+How to test: We will inject our script to inputed fields on systems.
+If we can, we can follow the effections of scripts to analysis the security severity.
+
 Example for XSS payload
 
 ```
 
 ```
 
-
 ## Broken Authentication
+All requests to system should be required althentication.
+
+
+```
+
+```
+## Broken Access Control
+
+One of the general attack ways that hackers use is escalation to go pass the business rules of system.
+We will folow the business rules points to inject your scripts.
+```
+
+```
+
+## Sensitive Data Exposure
+Sensitive data are the information of Web Server, internal data of server.
+```
+password
+password-salt
+
+user-id
+card-id
+```
+## Insecure Deserialization
 
 
 ## Sensitive Data Explosure
@@ -60,4 +86,8 @@ The impactful application security risk. From that hackers can detect and exploi
 
 # References
 
+=======
+## Using Components with Known Vulnerabilities
+We will have components
 
+## Insufficient Logging & Monitoring
