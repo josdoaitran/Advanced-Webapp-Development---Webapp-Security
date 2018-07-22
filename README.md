@@ -65,15 +65,18 @@ password-salt
 
 user-id
 card-id
+
 ```
-## Insecure Deserialization
-
-
-## Sensitive Data Explosure
 
 There are applications graphic interface (API) do not properly provide the sensitive data as banking, financial, healcare, ...
 
 Attacker can follow the response message from server to exploit, then they can steal more modify to weak points.
+
+
+## Insecure Deserialization
+
+
+
 
 
 ## CSRF - 
